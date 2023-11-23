@@ -1,8 +1,5 @@
 ---
 # defaults file for vector-role
-clickhouse_url: http://178.154.204.25:8123
-clickhouse_database_name: vector_logs
-clickhouse_create_table_name: logs_logs
 vector_version: "0.34.1-1"
 vector_config:
   sources:
